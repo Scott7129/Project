@@ -1,0 +1,28 @@
+header img {
+    float: left;
+
+}
+
+header {
+
+    font-family: sans-serif;
+}
+
+header h1 {
+    font-style: italic;
+    color: lawngreen;
+    text-shadow: 2px 2px 2px black;
+}
+
+.navigationtop {
+   font-size: 20px;
+
+}
+
+.navigation a:hover {
+    color: aqua;
+}
+
+table {
+    width: 100%
+}
